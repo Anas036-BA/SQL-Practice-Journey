@@ -15,3 +15,15 @@
 -- JOIN with GROUP BY
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 03
+-- Topic: Advanced JOIN Operations
+-- Concepts Covered:
+-- Multi-table JOINs
+-- Complex INNER JOIN
+-- LEFT JOIN Analysis
+-- Aggregate Functions with JOINs
+-- Filtering Joined Data
+-- Business-Oriented SQL Queries
+-- Database Used: Employees Database
+-- Author: Anas
