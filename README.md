@@ -27,3 +27,16 @@
 -- Business-Oriented SQL Queries
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 04
+-- Topic: Subqueries
+-- Concepts Covered:
+-- Single-Row Subqueries
+-- Multi-Row Subqueries
+-- Subqueries in WHERE Clause
+-- Subqueries in FROM Clause
+-- Correlated Subqueries
+-- Nested Subqueries
+-- Business-Oriented SQL Problems
+-- Database Used: Employees Database
+-- Author: Anas
