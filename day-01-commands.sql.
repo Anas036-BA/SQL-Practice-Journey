@@ -1,4 +1,4 @@
--- SQL Practice Day 01
+-- SQL Practice Day 01 
 -- Topics: WHERE, LIKE, BETWEEN, GROUP BY, INSERT, UPDATE
 ------------------------------------------------------------------------------------------
 -- Insert all employees hired after 2015 into new_employees table.
