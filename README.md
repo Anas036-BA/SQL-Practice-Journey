@@ -40,3 +40,14 @@
 -- Business-Oriented SQL Problems
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 05
+-- Topic: Self Joins
+-- Concepts Covered:
+-- Basic Self Joins
+-- Employee-Manager Relationships
+-- Comparing Records Within the Same Table
+-- Hierarchical Data Analysis
+-- Business-Oriented Self Join Queries
+-- Database Used: Employees Database
+-- Author: Anas
