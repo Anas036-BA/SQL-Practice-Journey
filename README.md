@@ -51,3 +51,15 @@
 -- Business-Oriented Self Join Queries
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 06
+-- Topic: Combining JOINs and Subqueries
+-- Concepts Covered:
+-- INNER JOIN with Subqueries
+-- LEFT JOIN with Subqueries
+-- Nested Subqueries
+-- Correlated Subqueries
+-- Aggregate Functions with JOINs
+-- Business-Oriented SQL Problem Solving
+-- Database Used: Employees Database
+-- Author: Anas
