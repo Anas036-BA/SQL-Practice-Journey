@@ -1,4 +1,25 @@
-# SQL-Practice-Journey
+# SQL Practice Journey
+
+Welcome to my SQL Practice Journey repository.
+
+This repository documents my hands-on SQL learning path through daily practice exercises and business-oriented problem-solving using the Employees database. The goal of this journey is to strengthen my SQL skills for Data Analytics and Financial Analytics by covering topics ranging from SQL fundamentals to advanced querying techniques.
+
+Throughout this repository, I explore concepts such as filtering, joins, subqueries, views, and other essential database operations while applying them to real-world business scenarios.
+
+Tools Used:
+
+* MySQL
+* MySQL Workbench
+
+Learning Focus:
+
+* SQL Query Writing
+* Data Analysis
+* Business Problem Solving
+* Database Management
+
+Thank you for visiting my repository and following my learning journey.
+
 
 -- SQL Practice Day 01
 -- Topics Covered:
