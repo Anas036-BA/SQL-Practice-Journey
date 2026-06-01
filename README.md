@@ -63,3 +63,15 @@
 -- Business-Oriented SQL Problem Solving
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 07
+-- Topic: Views
+-- Concepts Covered:
+-- Creating Views
+-- Updating Views
+-- Replacing Views
+-- Using Views for Data Abstraction
+-- Simplifying Complex Queries
+-- Business-Oriented Reporting with Views
+-- Database Used: Employees Database
+-- Author: Anas
