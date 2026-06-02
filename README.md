@@ -96,3 +96,15 @@ Thank you for visiting my repository and following my learning journey.
 -- Business-Oriented Reporting with Views
 -- Database Used: Employees Database
 -- Author: Anas
+
+-- SQL Practice Day 08
+-- Topic: Stored Procedures and Parameters
+-- Concepts Covered:
+-- Creating Stored Procedures
+-- Executing Stored Procedures
+-- IN Parameters
+-- OUT Parameters
+-- INOUT Parameters
+-- Business-Oriented Procedure Development
+-- Database Used: Employees Database
+-- Author: Anas
