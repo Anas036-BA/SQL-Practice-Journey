@@ -6,7 +6,7 @@ This repository documents my hands-on SQL learning path through daily practice e
 
 Throughout this repository, I explore concepts such as filtering, joins, subqueries, views, and other essential database operations while applying them to real-world business scenarios.
 
-Tools Used:
+Tools Used: 
 
 * MySQL
 * MySQL Workbench
