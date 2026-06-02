@@ -1,4 +1,4 @@
-# SQL Practice Journey
+# SQL Practice Journey 
 
 Welcome to my SQL Practice Journey repository.
 
